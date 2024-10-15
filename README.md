@@ -48,7 +48,7 @@ This project showcases a **responsive carousel** created using **Bootstrap 5.3**
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/your-username/Responsive-Carousel-built-using-HTML-CSS-Bootstrap.git
    ```
 
 2. **Open `index.html`**:  
