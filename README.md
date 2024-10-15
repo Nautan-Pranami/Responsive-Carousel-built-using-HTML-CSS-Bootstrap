@@ -3,6 +3,8 @@
 
 This project showcases a **responsive carousel** created using **Bootstrap 5.3**. The carousel features a collection of stunning images of **celestial bodies** and **landscapes**, providing an immersive and visually captivating experience for users. The design is optimized for various screen sizes, ensuring a smooth and seamless display on devices ranging from desktops to mobile phones.
 
+![{4E765F22-D230-4809-B3DC-906A55842A55}](https://github.com/user-attachments/assets/315a5ecb-103f-4f29-a5bf-83754dac3ec6)
+
 ### Features:
 
 - **Responsive Design**:  
